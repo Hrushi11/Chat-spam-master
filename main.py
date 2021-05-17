@@ -4,7 +4,7 @@ import time
 Keyboard = Controller()
 time.sleep(5)
 while True:
-    for letter in "Aur Kaise ho!!":
+    for letter in "<message_you_want_to_spam>":
         Keyboard.press(letter)
         Keyboard.release(letter)
     Keyboard.press(Key.enter)

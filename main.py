@@ -9,3 +9,4 @@ while True:
         Keyboard.release(letter)
     Keyboard.press(Key.enter)
     Keyboard.release(Key.enter)
+

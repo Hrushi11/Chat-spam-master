@@ -1,5 +1,5 @@
 from pynput.keyboard import Key, Controller
-import time1
+import time
 
 Keyboard = Controller()
 time.sleep(5)

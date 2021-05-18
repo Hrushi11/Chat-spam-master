@@ -8,7 +8,7 @@ Python bot of an infinite loop to spam in chats. Works on all kinds of chat syst
 
 2. Check if your created environment has `pynput` library installed.<br>
    
-   To check for the correct installation of the library run `check.py` <br>
+   To check for the correct installation of the library, run `check.py` <br>
    ```elem
    python check.py
    ```

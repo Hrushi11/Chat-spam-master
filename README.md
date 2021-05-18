@@ -6,8 +6,13 @@ Python bot of an infinite loop to spam in chats. Works on all kinds of chat syst
 
 1. Fork this repo and clone it to your local device.
 
-2. Check if your created environment has `pynput` library installed, if not, use : <br>
-   Although the `venv` folder for this repository already contains all the neccesary libraries. 
+2. Check if your created environment has `pynput` library installed.<br>
+   
+   To check for the library run `check.py` <br>
+   ```elem
+   python check.py
+   ```
+   *Although the `venv` folder for this repository already contains all the neccesary libraries.* if not, use : <br>
    ```elem
    pip install pynput
    ```

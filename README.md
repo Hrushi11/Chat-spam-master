@@ -1,6 +1,6 @@
 # Chat-spam-master
 
-Python bot of an infinite loop to spam in chats. Works on all kinds of chat systems. *Please make sure to consult the victim before using this.*
+Python bot of control able loop to spam in chats. Works on all kinds of chat systems. *Please make sure to consult the victim before using this.*
 
 ### To get this project work -
 
